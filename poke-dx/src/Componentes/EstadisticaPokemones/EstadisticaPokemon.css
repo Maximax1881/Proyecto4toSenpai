@@ -1,0 +1,14 @@
+.PokemonValor{
+display: flex;
+gap: 40px;
+flex-direction: row;
+justify-content: right;
+text-align: center;
+margin-right: 340px;
+}
+h5{
+    margin: 5px;   
+}
+.barraHabilidad{
+    margin-top: 10px;
+}

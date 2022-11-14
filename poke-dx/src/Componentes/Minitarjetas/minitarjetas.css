@@ -1,0 +1,43 @@
+/** @format */
+
+.Imgminitarjetas {
+  border-radius: 21px;
+  width: 212px;
+}
+
+.ButtonTarjetas {
+
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border: none;
+  background-color: white;
+}
+
+p {
+  display: flex;
+  justify-content: end;
+  padding: 10px;
+}
+.ImgTarjetas {
+  width: 200px;
+  height: 180px;
+}
+.H2Tarjetas {
+  
+  display: flex;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: x-large;
+  text-decoration: none;
+}
+
+.CuadriculaTarjetas {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 100px;
+  margin-left: 310px;
+  width: 700px;
+}
